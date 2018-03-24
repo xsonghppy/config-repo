@@ -1,8 +1,0 @@
-# 这个会被所有应用读取到，用来做公共配置
-spring:
-  rabbitmq:
-    host: 192.168.88.128
-    username: guest
-    password: guest
-tony:
-  applicationText: 这是这是开发环境公共配置
